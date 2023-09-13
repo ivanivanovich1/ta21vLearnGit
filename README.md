@@ -5,9 +5,6 @@ mainline
 
 tere opetaja
 
-Hello
-
-oldline
-newline
+Hello world
 
 ![image](./img.png)
