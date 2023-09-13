@@ -1,10 +1,5 @@
 # LearnGit
-Hello 
 
-mainline
-
-tere opetaja
-
-Hello world
+Very scary image:
 
 ![image](./img.png)
